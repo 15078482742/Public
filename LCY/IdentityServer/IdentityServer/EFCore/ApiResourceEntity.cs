@@ -11,6 +11,9 @@ namespace IdentityServer.EFCore
     {
         [Key]
         public string ApiResourceId { get; set; }
-
+        public string Name { get; set; }
+        public string DisplayName { get; set; }
+        public List<SecretEntity> Secrets { get; set; }
+        public List<ScopeEntity> Scopes { get; set; }
     }
 }

@@ -27,9 +27,7 @@ namespace IdentityServer
             services.AddDbContext<IdentityContext>(option => option.UseSqlServer(configuration.GetConnectionString("Identity")));
             services.AddIdentityServer()
                 .AddDefaultSecretValidators()
-                .AddClientStore<MyClientStore>()
-                .AddInMemoryApiResources()
-                .AddResourceStore<>
+                .AddClientStore<MyClientStore>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

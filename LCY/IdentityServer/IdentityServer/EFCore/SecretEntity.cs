@@ -17,5 +17,6 @@ namespace IdentityServer.EFCore
         public string Type { get; set; }
 
         public ApiResourceEntity ApiResourceId { get; set; }
+        public ApiResourceEntity ApiResource { get; set; }
     }
 }

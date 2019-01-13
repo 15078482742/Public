@@ -12,3 +12,17 @@ C:\Users\Administrator\source\repos\IdentityServer\IdentityServer\obj\Debug\netc
 C:\Users\Administrator\source\repos\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
 C:\Users\Administrator\source\repos\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
 C:\Users\Administrator\source\repos\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache

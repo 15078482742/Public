@@ -1,6 +1,7 @@
 ﻿using IdentityServer.EFCore;
 using IdentityServer4.Models;
 using IdentityServer4.Stores;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +20,9 @@ namespace IdentityServer.IdentityServer4
 
         public Task<ApiResource> FindApiResourceAsync(string name)
         {
-            throw new NotImplementedException();
+            var myApiResources = identityContext.ApiResources.Where(entity => entity.Name == name).FirstOrDefault();
+            ApiResource apiResource = new ApiResource(myApiResources.Name, myApiResources.DisplayName);
+            return Task.FromResult(apiResource);
         }
 
         public Task<IEnumerable<ApiResource>> FindApiResourcesByScopeAsync(IEnumerable<string> scopeNames)
