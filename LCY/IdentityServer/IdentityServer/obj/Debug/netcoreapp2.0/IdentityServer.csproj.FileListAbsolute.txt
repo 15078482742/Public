@@ -1,4 +1,0 @@
-L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojAssemblyReference.cache
-L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
-L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
-L:\GitHub\Public.git\trunk\LCY\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
