@@ -17,6 +17,9 @@ namespace IdentityServer.EFCore
         public DbSet<IdentityResourceEntity> IdentityResources { get; set; }
         public DbSet<ScopeEntity> Scopes { get; set; }
         public DbSet<SecretEntity> Secrets { get; set; }
+        public DbSet<ClientScopeEntity> ClientScopes { get; set; }
+        public DbSet<ClientSecretEntity> ClientSecrets { get; set; }
+        public DbSet<AllowedGrantTypeEntity> AllowedGrantTypes { get; set; }
 
     }
 }
